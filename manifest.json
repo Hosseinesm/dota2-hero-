@@ -1,0 +1,21 @@
+{
+  "short_name": "Dota Guide",
+  "name": "راهنمای هیروهای دوتا ۲",
+  "icons": [
+    {
+      "src": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/global/dota_logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/global/dota_logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
+  "orientation": "portrait"
+}
